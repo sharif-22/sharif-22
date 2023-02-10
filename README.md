@@ -11,4 +11,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharif-22&layout=compact)](https://github.com/sharif-22/github-readme-stats)
 
-<!-- [![codetime](https://wakatime.com/share/@ffeef898-5578-4e67-8dc9-ab879e420daf/4b8ef224-4c64-46cf-a6bc-b7d6255caea7.json)] -->
+
+Wakatime Joined in Nov 27 2021
+
+[![wakatime](https://wakatime.com/badge/user/ffeef898-5578-4e67-8dc9-ab879e420daf.svg)](https://wakatime.com/@ffeef898-5578-4e67-8dc9-ab879e420daf)
+
