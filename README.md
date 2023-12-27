@@ -40,20 +40,25 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 -->
+---
+**📊 Stats**
 
-
+![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharif-22)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharif-22&layout=compact)](https://github.com/sharif-22/github-readme-stats)
+
+
+
 
 
 Wakatime Joined in Nov 27 2021
 
 [![wakatime](https://wakatime.com/badge/user/ffeef898-5578-4e67-8dc9-ab879e420daf.svg)](https://wakatime.com/@ffeef898-5578-4e67-8dc9-ab879e420daf) of Code Time 
 
+---
 
+**👽 connect me in 🕺**
 
-**connect me in**
-
-[![Linkedin](https://img.icons8.com/color/24/linkedin-2--v1.png)](https://www.linkedin.com/in/khaja-sharif-46a236242/) [![Instagram](https://img.icons8.com/fluency/24/instagram-new.png)](https://www.instagram.com/kaja.sharif/) [![Twitter](https://img.icons8.com/color/24/twitter--v1.png)](https://twitter.com/Kajasharif38) 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin&labelColor=007ACC)](https://www.linkedin.com/in/khaja-sharif-46a236242/) [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&labelColor=ffffff)](https://www.instagram.com/kaja.sharif/) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=x&labelColor=000)](https://twitter.com/Kajasharif38) [![Github](https://img.shields.io/badge/Github-000000?style=flat&logo=Github&labelColor)](https://github.com/sharif-22)
 
 
