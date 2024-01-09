@@ -57,6 +57,6 @@ Wakatime Joined in Nov 27 2021
 
 **👽 connect me in 🕺**
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin&labelColor=007ACC)](https://www.linkedin.com/in/khaja-sharif-46a236242/) [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&labelColor=ffffff)](https://www.instagram.com/kaja.sharif/) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=x&labelColor=000)](https://twitter.com/Kajasharif38) [![Github](https://img.shields.io/badge/Github-000000?style=flat&logo=Github&labelColor)](https://github.com/sharif-22)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=linkedin&labelColor=007ACC)](https://www.linkedin.com/in/khaja-sharif-46a236242/) [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&labelColor=ffffff)](https://www.instagram.com/kaja.sharif/) [![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=x&labelColor=000)](https://twitter.com/Kajasharif38) [![Github](https://img.shields.io/badge/Github-000000?style=flat&logo=Github&labelColor)](https://github.com/sharif-22)[![Github](https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&labelColor=ffffff)](mailto:khajasharif065@gmail.com)
 
 
